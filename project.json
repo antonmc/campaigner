@@ -1,1 +1,1 @@
-{"Name":"campaigner at github.com"}
+{"Name":"campaigner at github.com","Dependencies":[{"Type":"git","Location":"https://github.com/cobyism/gridism.git","Name":"gridism at github.com"}]}
